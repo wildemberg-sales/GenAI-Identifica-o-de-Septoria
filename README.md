@@ -11,3 +11,6 @@ Após o treinamento, abro o espaço para que o usuário forneça uma imagem de u
 ## Como Usar
 * Copie as imagens da pasta dataset disponibilizadas neste repositório, e cole elas abaixo da pasta sample_data do colab.
 * Após isso pode executar os códigos do arquivo e subir suas imagens.
+
+## Base de Dados
+Foi utilizado para coleta das imagens disponibilizadas a plataforma [Kaggle com o dataset Plant Disease](https://www.kaggle.com/datasets/emmarex/plantdisease?resource=download)
